@@ -5,6 +5,7 @@ All claude generated content for Theatre Studies
 ## Pages
 
 - [Commandterms](CommandTerms.html)
+- [Context](context.html)
 - [Influence](influence.html)
 - [Interpretation](interpretation.html)
 - [Test](test.html)
